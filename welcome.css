@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    top:0px;
+    left: 0;
+    font-family: roboto;
+    background-color: #b3b3b3; 
+    background-size: cover;
+    height: 80vh;
+}
+.img{
+    position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30vw;
+  height: auto;
+
+}
+.logout{
+    display: inline-block;
+    text-align: center;
+}
+.logout a{
+    position: absolute;
+    right: 0;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin-right: 3vh;
+    margin-top: 3vh;
+    background-color: red;
+    border-radius: 10px;
+}
+.main{ 
+    margin-top: 300px;
+    position:relative;
+    top:0;
+    text-align: center;
+    width: 100vw;
+    color: #122c45;
+
+}
+.main span{
+
+    color: red;
+}
