@@ -15,6 +15,7 @@
          Thanks
          <span><?php echo $login_session; ?></span> 
          <br>For Registration
+         <img class=" img" src="images/ass.png">
       </h1>
    </body>
    
